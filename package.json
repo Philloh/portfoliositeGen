@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Static site generator for personal portfolios",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js build",
+    "deploy": "node index.js deploy"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "commander": "^12.1.0",
+    "ejs": "^3.1.10",
+    "fs-extra": "^11.3.2",
+    "gh-pages": "^6.3.0",
+    "jquery": "^3.7.1",
+    "js-yaml": "^4.1.0",
+    "marked": "^14.1.4",
+    "popper.js": "^1.16.1"
+  },
+  "homepage": "https://yourusername.github.io/your-repo",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

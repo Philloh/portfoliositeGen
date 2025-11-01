@@ -1,0 +1,81 @@
+name: Philip Charles Ndolo
+title: Computer Security and Forensics Graduate
+email: philipcharlesndolo@gmail.com
+linkedin: https://www.linkedin.com/in/philip-c-ndolo-0466812aa
+github: https://github.com/philipndolo  # Add your GitHub if available; otherwise, remove this line
+about: |
+  A passionate Computer Security and Forensics graduate from Meru University of Science and Technology with a Second-Class Upper Division (Graduated: March 2023). Seeking an entry-level role in platform and cloud development. Eager to leverage skills in coding, automation, AI, and system troubleshooting to contribute to innovative software solutions while growing as a collaborative team player and leader in a dynamic tech environment.
+
+  **Contact Information:**
+  - Location: 00600 - Nairobi, Kenya
+  - Phone: 0743462214
+
+  **Education:**
+  - Bachelor of Science in Computer Security and Forensics, Meru University of Science and Technology, Meru, Kenya
+  - Relevant Coursework: Cybersecurity, Programming, Network Security, Cloud Computing, Digital Forensics, Artificial Intelligence Fundamentals
+
+  **Technical Skills:**
+  - Programming Languages: Python, Java, Bash, JavaScript
+  - Cloud & Platform Tools: AWS (EC2, S3), Azure basics, Docker, Kubernetes (beginner)
+  - Automation & Scripting: Proficient in writing automation scripts for system tasks and CI/CD pipelines
+  - AI & Machine Learning: Familiar with AI frameworks (TensorFlow, PyTorch) and basic model implementation
+  - Troubleshooting: Skilled in diagnosing and resolving system and network issues
+  - Version Control: Git, GitHub
+  - Documentation: Clear and concise technical documentation using Markdown and Confluence
+  - Other: Linux administration, CTF challenge experience, basic DevOps practices
+
+  **Professional Experience:**
+  - IT Support Specialist, Missions of Hope International, Nairobi, Kenya (March 2025 – Present)
+    - Troubleshoot and resolve hardware, software, and network issues for 100+ users, ensuring 95% uptime for critical systems.
+    - Develop and implement automation scripts in Python and Bash to streamline repetitive IT tasks, reducing manual workload by 15%.
+    - Collaborate with cross-functional teams to integrate code updates and deploy system patches, improving operational efficiency.
+    - Maintain detailed documentation for system configurations and troubleshooting guides, enhancing team knowledge sharing.
+
+  **Leadership & Extracurricular Activities:**
+  - Cybersecurity Club, Meru University (Member, August 2022 – Present): Organized workshops on automation, promoting hands-on coding experience.
+  - Volunteer Mentor and Trainer, Missions of Hope International (January 2025 – Present): Teaching basic Python programming to high school students, fostering their interest in technology. Demonstrate strong interpersonal skills and relationship-building with diverse learners.
+
+  **Soft Skills:**
+  - Quick learner with a growth mindset, adept at learning, unlearning, and relearning technologies.
+  - Strong interpersonal and relationship-building skills, fostering collaboration in team settings.
+  - Clear communicator, ensuring effective knowledge transfer and documentation.
+  - Leadership potential, proven through team coordination and mentorship roles.
+  - Quest for 360° IT knowledge, driven by passion for computer systems and innovation.
+
+  **Certifications:**
+  - TCM Security – Help Desk Certificate
+  - Python Intermediate – Great Learning
+
+  **References:** Available upon request.
+
+projects:
+  - name: Network Automation Tool
+    description: |
+      Personal Project (June 2023 – August 2023)
+      
+      Designed and coded a Python-based automation tool to monitor and manage network devices, reducing manual checks by 30%.
+      
+      Integrated REST APIs to collect real-time data and generate reports, showcasing clear documentation practices.
+    link: https://example.com/network-automation-tool  # Replace with actual link if available
+
+  - name: CTF Challenge with Microsoft
+    description: |
+      Team Participant (April 2025)
+      
+      Competed in Microsoft’s Capture The Flag (CTF) challenge, solving complex cybersecurity and coding puzzles.
+      
+      Demonstrated leadership by coordinating team efforts, resulting in a top 10% ranking among participants.
+      
+      Strengthened problem-solving and teamwork skills under time constraints.
+    link: https://example.com/microsoft-ctf  # Replace with actual link if available
+
+  - name: AI Chatbot
+    description: |
+      University Project (August 2022)
+      
+      Developed a Python-based chatbot using TensorFlow for natural language processing, achieving 85% accuracy in user query responses.
+      
+      Collaborated with a team of 4 to integrate code and deploy the chatbot on a local server, fostering effective communication.
+      
+      Documented development process and user manual, ensuring scalability for future iterations.
+    link: https://example.com/ai-chatbot  # Replace with actual link if available
