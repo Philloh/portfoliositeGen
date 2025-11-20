@@ -57,6 +57,7 @@ projects:
       
       Integrated REST APIs to collect real-time data and generate reports, showcasing clear documentation practices.
     link: https://example.com/network-automation-tool  # Replace with actual link if available
+    image: images/1.png
 
   - name: CTF Challenge with Microsoft
     description: |
@@ -68,6 +69,7 @@ projects:
       
       Strengthened problem-solving and teamwork skills under time constraints.
     link: https://example.com/microsoft-ctf  # Replace with actual link if available
+    image: images/1.png
 
   - name: AI Chatbot
     description: |
@@ -79,3 +81,4 @@ projects:
       
       Documented development process and user manual, ensuring scalability for future iterations.
     link: https://example.com/ai-chatbot  # Replace with actual link if available
+    image: images/1.png
